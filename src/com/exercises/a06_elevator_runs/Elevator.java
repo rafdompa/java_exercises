@@ -1,4 +1,4 @@
-package com.exercises.a05_elevator_runs;
+package com.exercises.a06_elevator_runs;
 
 public class Elevator {
     /* <summary>

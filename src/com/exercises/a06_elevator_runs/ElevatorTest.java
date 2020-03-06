@@ -1,4 +1,4 @@
-package com.exercises.a05_elevator_runs;
+package com.exercises.a06_elevator_runs;
 
 
 import static org.junit.Assert.*;
