@@ -33,4 +33,16 @@ public class NumUtilTest {
         assertEquals(null,
             NumUtil.convertToDouble(""));
     }
+
+    @org.junit.Test
+    public void specialCase_05() {
+        assertEquals(null,
+            NumUtil.convertToDouble("2e4.7"));
+    }
+
+    @org.junit.Test
+    public void specialCase_06() {
+        assertEquals(null,
+            NumUtil.convertToDouble("34T3.8H"));
+    }
 }
