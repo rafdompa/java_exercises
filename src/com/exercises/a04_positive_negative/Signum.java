@@ -1,7 +1,6 @@
 package com.exercises.a04_positive_negative;
 
 public class Signum {
-
     /* <summary>
             INSTRUCTIONS:
                 * Modify the method so that it can determine wether the parameter passed to it
