@@ -1,6 +1,4 @@
-package com.exercises.types_variables_1;
-
-import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+package com.exercises.a02_passing_time;
 
 import java.util.Scanner;
 

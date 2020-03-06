@@ -1,4 +1,4 @@
-package com.exercises.troubleshooting;
+package com.exercises.a01_troubleshooting;
 
 public class Main {
 
