@@ -2,7 +2,7 @@ package com.exercises.a03_guessing_game;
 
 import java.util.Scanner;
 
-public class Main {
+public class GuessingGame {
 
     /* <summary>
             INSTRUCTIONS:
@@ -16,13 +16,15 @@ public class Main {
             HINT:
                 * Good time to use the modulus operator (look it up)
                 * this is a self-testing method; it does not run by itself;
-                    it's called by a test method (it's kinda like a driver)
+                * to run go to the GuessingGameTest class and run it (Ctrl-Shft-F10)
+                    - it's executed by a test method (it's kinda like a driver)
+                    - all tests should pass
 
             EXAMPLE:
        
                 |   INPUT     | OUTPUT                     |
                 |------------------------------------------|
-                | 30          |  "You won a car!"             |
+                | 30          |  "You won a car!"          |
                 |------------------------------------------|
 
     */
